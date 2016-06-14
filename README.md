@@ -7,10 +7,10 @@ The material consists in:
 - A short presentation about how to measure the  MPI applications' performance, 
   and which tools can be used to improve it [Tutorial1](https://github.com/rosafilgueira/Performance_MPI_Applications/blob/master/Parallel_Performance_Analysis_Tutorial1.pdf)
 - A presentation about Jumpshot, Vampir and Taul features [Tutorial 2](https://github.com/rosafilgueira/Performance_MPI_Applications/blob/master/Jumpshot_Vampir_TAU_Tutorial2.pdf)
-- Three [Performance exercises](https://github.com/rosafilgueira/Performance_MPI_Applications/blob/master/Performance_exercises.pdf) to improve the performance of mpi applications by using Jumpshot and TAU.
+- Three [exercises](https://github.com/rosafilgueira/Performance_MPI_Applications/blob/master/Performance_exercises.pdf) to improve their performance by using Jumpshot and TAU tools.
   The required [material](https://github.com/rosafilgueira/Performance_MPI_Applications/tree/master/mpi_exercise) to execute those exercises is also provided (except the tools).
 
 
-Jumpshot can be downloaded [here](http://www.mcs.anl.gov/research/projects/perfvis/software/viewers/)
-
-Tau can be dowloaded [here](https://www.cs.uoregon.edu/research/tau/downloads.php) 
+NOTE:
+- Jumpshot can be downloaded [here](http://www.mcs.anl.gov/research/projects/perfvis/software/viewers/)
+- Tau can be dowloaded [here](https://www.cs.uoregon.edu/research/tau/downloads.php) 
